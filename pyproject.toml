@@ -1,0 +1,6 @@
+[project]
+name = "weight-contract"
+version = "0.1.0"
+description = "减重训练承诺履约裁决的服务端领域基础"
+requires-python = ">=3.11"
+dependencies = []
